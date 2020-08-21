@@ -59,7 +59,7 @@
 17:30-19:30 (GMT+9) **Experiment 3: RIXS**
 
 17:30- (GMT+9) **A. Fujimori** "Charge order and excitation in high-Tc cuprates studied by RIXS"
-a
+
 18:30- (GMT+9) TBA
 
 -----
