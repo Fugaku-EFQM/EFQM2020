@@ -54,8 +54,8 @@ Registration  [Here](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkp
 
 - Deadline: Sep. 22 (Tue.)
 - If you cannot register the google form,
-send your information (Name, mail address, Institute, Position) 
-to yamaji [at] ap.t.u-tokyo.ac.jp.
+please send your information (Name, Email ,Affiliation, Position) 
+to yamaji [at] ap.t.u-tokyo.ac.jp .
 
 
 # Notice
