@@ -50,7 +50,7 @@ Y. Kosaka (RIKEN)
 
 # Schedule
 
-Registration [will be open] <!-- [Here] (https://forms.gle/JH88RpSRo9GLtBXD8)．-->
+Registration  [Here](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)．
 
 - Deadline: Sep. 22 (Tue.)
 - If you cannot register the google form,
