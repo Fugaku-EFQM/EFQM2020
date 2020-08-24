@@ -55,7 +55,7 @@ Registration  [Here](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkp
 - Deadline: Sep. 22 (Tue.)
 - If you cannot register the google form,
 please send your information (Name, Email ,Affiliation, Position) 
-to yamaji [at] ap.t.u-tokyo.ac.jp .
+to efqm2020s [at] gmail.com .
 
 
 # Notice
@@ -75,4 +75,4 @@ Masatoshi Imada (Waseda University/Toyota Physical and Chemical Research Institu
 
 ## Contact
 
-yamaji [at] ap.t.u-tokyo.ac.jp
+efqm2020s [at] gmail.com
