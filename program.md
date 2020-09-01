@@ -43,7 +43,7 @@
 
 17:30- (GMT+9) **T. Kondo** "TBA"
 
-18:30- (GMT+9) **Y. Yamaji** "TBA"
+18:30- (GMT+9) TBA
 
 -----
 
