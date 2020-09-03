@@ -69,9 +69,11 @@ to efqm2020s [at] gmail.com .
 
 Youhei Yamaji (University of Tokyo)  
 
-Takahiro Misawa (Waseda University) 
-
 Masatoshi Imada (Waseda University/Toyota Physical and Chemical Research Institute) 
+
+### Web page
+
+Takahiro Misawa (Waseda University) 
 
 ## Contact
 
