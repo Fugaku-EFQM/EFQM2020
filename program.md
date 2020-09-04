@@ -24,7 +24,7 @@
 
 17:30- (GMT+9) **T. Hanaguri** "Spectroscopic-imaging STM studies of FeSe and related materials"
 
-18:30- (GMT+9) **Y. Kosaka** "Toward wavefunction interferometry"
+18:30- (GMT+9) **Y. Kohsaka** "Toward wavefunction interferometry"
 
 -----
 

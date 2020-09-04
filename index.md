@@ -41,7 +41,7 @@ T. Hanaguri (RIKEN)
 
 T. Kondo (ISSP, University of Tokyo)
 
-Y. Kosaka (RIKEN)
+Y. Kohsaka (RIKEN)
 
 # Program
 
