@@ -10,7 +10,8 @@
 
 20:00-      (GMT+9) **Y.Yamaji** "TBA"
 
-21:00-      (GMT+9) / 08:00- (GMT-4)  **Y.B.Kim** "TBA"
+21:00-      (GMT+9) / 08:00- (GMT-4)  **Y.B.Kim** "Detection of quantum spin liquids and novel
+competing phases"
 
 <!-- [tmp](abstracts#yamaji)-->
 
