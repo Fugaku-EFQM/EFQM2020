@@ -9,7 +9,7 @@ Due to the spread of COVID-19 pandemic all over the world possibly continuing in
 
 # Date & Venue
 
-- Date:  Sep. 29 (Tue.) - Oct. 2 (Fri.)  
+- Date of Workshop: Sep. 29 (Tue.) - Oct. 2 (Fri.) (Webinars: Oct. 5, Oct. 6, Oct. 13, Oct. 19, and Oct. 20)  
 - Time Zone: Japan Standard Time (GMT+9)
 - Venue: Online (Zoom) 
 - Number of participants : 200
@@ -45,9 +45,9 @@ Y. Kohsaka (RIKEN)
 
 # Program
 
-- [Program](program)
+- [Program] Program of the workshop
 - [Abstact] (will be shown) <!-- [Abstract](abstracts) -->
-
+- [Webinar] Schedule of the series of the webinars 
 # Schedule
 
 Registration  [Here](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)．

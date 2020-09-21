@@ -10,7 +10,8 @@
 
 20:00-      (GMT+9) **Y.Yamaji** "TBA"
 
-21:00-      (GMT+9) / 08:00- (GMT-4)  **Y.B.Kim** "TBA"
+21:00-      (GMT+9) / 08:00- (GMT-4)  **Y.B.Kim** "Detection of quantum spin liquids and novel
+competing phases"
 
 <!-- [tmp](abstracts#yamaji)-->
 
@@ -68,7 +69,7 @@
 
 20:00- (GMT+9) / 13:00- (GMT+2) **G. Carleo** "Neural-network quantum states: from spins to fermions"
 
-21:00- (GMT+9) / 20:00- (GMT+8) **L. Wang** "TBA"
+21:00- (GMT+9) / 20:00- (GMT+8) **L. Wang** "Differentiable Programming Tensor Networks and Quantum Circuits"
 
 22:00-23:00 (GMT+9) Discussion
 
