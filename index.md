@@ -47,7 +47,8 @@ Y. Kohsaka (RIKEN)
 
 - [Program](https://fugaku-efqm.github.io/EFQM2020/program) Program of the workshop
 - [Abstact] (will be shown) <!-- [Abstract](abstracts) -->
-- [Webinar] Schedule of the series of the webinars 
+- [Webinar](https://fugaku-efqm.github.io/EFQM2020/webinar) Schedule of the series of the webinars
+
 # Schedule
 
 Registration  [Here](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)．
