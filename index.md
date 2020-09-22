@@ -45,7 +45,7 @@ Y. Kohsaka (RIKEN)
 
 # Program
 
-- [Program](https://github.com/Fugaku-EFQM/EFQM2020/blob/master/program.md) Program of the workshop
+- [Program](https://fugaku-efqm.github.io/EFQM2020/program) Program of the workshop
 - [Abstact] (will be shown) <!-- [Abstract](abstracts) -->
 - [Webinar] Schedule of the series of the webinars 
 # Schedule
