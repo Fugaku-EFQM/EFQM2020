@@ -5,18 +5,29 @@
 <h2 id="1005" class="date"><a href="abstracts#1005">Oct. 5</a></h2>
 
 **T. Misawa**
+
 (Session for open source softwares developed in Fugaku project)
+
 21:00- (GMT+9) in Japan and Korea
+
 20:00- (GMT+8) in China
+
 14:00- (GMT+2) in Central Europe
+
 08:00- (GMT-4) in East North America
 
 <h2 id="1006" class="date"><a href="abstracts#1005">Oct. 6</a></h2>
+
 **Y. Nomura**
+
 "Machine learning quantum states — Extension of methods and application to frustrated spin systems"
+
 21:00- (GMT+9) in Japan and Korea
+
 20:00- (GMT+8) in China
+
 14:00- (GMT+2) in Central Europe
+
 08:00- (GMT-4) in East North America
 
 -Oct. 13
