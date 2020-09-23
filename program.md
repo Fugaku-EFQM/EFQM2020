@@ -8,7 +8,7 @@
 
 20:00-23:00 (GMT+9) **Theory 1: Quantum spin liquid**
 
-20:00-      (GMT+9) **Y.Yamaji** "TBA"
+20:00-      (GMT+9) **Y.Yamaji** "Strongly-Correlated Electron Science by Integration of “Fugaku” and Frontier Experiments: Overview and Boltzmann-Machine Spectroscopy"
 
 21:00-      (GMT+9) / 08:00- (GMT-4)  **Y.B.Kim** "Detection of quantum spin liquids and novel
 competing phases"
