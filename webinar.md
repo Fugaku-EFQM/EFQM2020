@@ -6,7 +6,8 @@
 
 **T. Misawa**
 
-(Session for open source softwares developed in Fugaku project)
+"Development of open source software packages for quantum many-body systems - [HΦ](https://www.pasums.issp.u-tokyo.ac.jp/hphi/en/) and [mVMC](https://www.pasums.issp.u-tokyo.ac.jp/mvmc/en/)"
+<!-- (Session for open source software packages developed in Fugaku project) -->
 
 * 21:00- (GMT+9) in Japan and Korea
 * 20:00- (GMT+8) in China
