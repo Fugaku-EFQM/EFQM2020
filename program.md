@@ -44,8 +44,6 @@ competing phases"
 
 17:30- (GMT+9) **T. Kondo** "TBA"
 
-18:30- (GMT+9) TBA
-
 -----
 
 20:00-22:00 (GMT+9) **Theory 3: Quantum spin liquids/numerical approaches**
@@ -61,7 +59,7 @@ competing phases"
 
 17:30- (GMT+9) **A. Fujimori** "Charge order and excitation in high-Tc cuprates studied by RIXS"
 
-18:30- (GMT+9) TBA
+18:30- (GMT+9) **M. Imada** "Remarks on RIXS spectra"
 
 -----
 
