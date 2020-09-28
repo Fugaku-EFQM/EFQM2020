@@ -29,7 +29,7 @@ competing phases"
 
 -----
 
-20:00-22:00 (GMT+9) **Theory 2: Numerical approaches and strongly correlated electrons**
+20:00-23:00 (GMT+9) **Theory 2: Numerical approaches and strongly correlated electrons**
 
 20:00- (GMT+9) / 13:00- (GMT+2) **P. Corboz** "Simulations of the 2D Hubbard model with infinite projected entangled-pair states"
 
