@@ -1,4 +1,4 @@
-# Program (tentative)
+# Program
 
 [Sep. 29](#0929) / [Sep. 30](#0930) / [Oct. 01](#1001) / [Oct. 02](#1002)
 
