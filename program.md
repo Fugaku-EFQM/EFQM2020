@@ -35,7 +35,7 @@ competing phases"
 
 21:00- (GMT+9) / 08:00- (GMT-4) **S. W. Zhang** "Recent progress in computations of ground state properties of the Hubbard model"
 
-22:00- (GMT+9) / 09:00- (GMT-4) **G. Kotliar** "TBA"
+22:00- (GMT+9) / 09:00- (GMT-4) **G. Kotliar** "Correlated Superconductivity: Bronze Iron and Nickel Age"
 
 
 <h2 id="1001" class="date"><a href="abstracts#1001">Oct. 01</a></h2>
