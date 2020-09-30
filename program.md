@@ -42,7 +42,8 @@ competing phases"
 
 17:30-19:30 (GMT+9) **Experiment 2: ARPES**
 
-17:30- (GMT+9) **T. Kondo** "TBA"
+17:30- (GMT+9) **T. Kondo** "Novel electronic states of cuprate superconductors revealed by
+high-resolution laser-ARPES"
 
 -----
 
