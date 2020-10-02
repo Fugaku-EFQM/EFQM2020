@@ -27,7 +27,7 @@
 
 <h2 id="1013" class="date"><a href="abstracts#1013">Oct. 13</a></h2>
 
-TBA
+**F. Becca**
 
 * 21:00- (GMT+9) in Japan and Korea
 * 20:00- (GMT+8) in China
@@ -40,10 +40,19 @@ TBA
 
 "Variational Monte Carlo method for excitation spectra in strongly correlated electron systems"
 
-* 20:00- (GMT+9) in Japan and Korea
-* 19:00- (GMT+8) in China
-* 13:00- (GMT+2) in Central Europe
-* 07:00- (GMT-4) in East North America
+* 20:00-20:50 (GMT+9) in Japan and Korea
+* 19:00-19:50 (GMT+8) in China
+* 13:00-13:50 (GMT+2) in Central Europe
+* 07:00-07:50 (GMT-4) in East North America
+
+**M. Hirayama**
+
+(Session for constrained GW methods)
+
+* 20:50-21:40 (GMT+9) in Japan and Korea
+* 19:50-20:40 (GMT+8) in China
+* 13:50-14:40 (GMT+2) in Central Europe
+* 07:50-08:40 (GMT-4) in East North America
 
 <h2 id="1020" class="date"><a href="abstracts#1020">Oct. 20</a></h2>
 
