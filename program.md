@@ -66,9 +66,9 @@ high-resolution laser-ARPES"
 
 20:00-23:00 (GMT+9) **Theory 4: Numerical approaches and machine learning**
 
-20:00- (GMT+9) / 13:00- (GMT+2) **G. Carleo** "Neural-network quantum states: from spins to fermions"
+20:00- (GMT+9) / 19:00- (GMT+8) **L. Wang** "Differentiable Programming Tensor Networks and Quantum Circuits"
 
-21:00- (GMT+9) / 20:00- (GMT+8) **L. Wang** "Differentiable Programming Tensor Networks and Quantum Circuits"
+21:00- (GMT+9) / 20:00- (GMT+8) / 14:00- (GMT+2) / 08:00- (GMT-4) Discussion
 
-22:00-23:00 (GMT+9) Discussion
+22:00- (GMT+9) / 15:00- (GMT+2) **G. Carleo** "Neural-network quantum states: from spins to fermions"
 
