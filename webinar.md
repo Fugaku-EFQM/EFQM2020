@@ -29,6 +29,9 @@
 
 **F. Becca**
 
+"Low-energy spectrum of frustrated spin models from a variational Monte
+Carlo perspective"
+
 * 21:00- (GMT+9) in Japan and Korea
 * 20:00- (GMT+8) in China
 * 14:00- (GMT+2) in Central Europe
