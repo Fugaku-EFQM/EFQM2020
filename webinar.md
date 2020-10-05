@@ -1,4 +1,4 @@
-# Webinar (tentative)
+# Webinar
 
 [Oct. 5](#1005) / [Oct. 6](#1006) / [Oct. 13](#1013) / [Oct. 19](#1010) / [Oct. 20](#1020)
 
